@@ -23,4 +23,4 @@
 ### Connect with me:
 Wanna get in touch? [Say Hi 👋][website]
 
-[website]: https://codeSTACKr.com
+[website]: http://samratsk.maginnow.com
