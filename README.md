@@ -1,4 +1,4 @@
-# Hi there, I'm Sam - aka *#HydraCosmos* 👋
+# Hi there, I'm Sam - aka *#Cosmos* 👋
 ## I'm a Student, Tech Enthusiast, and a Developer!!
 - 🔭 Check out my [website][website]!
 - 🌱 I’m currently working on new web frameworks (which don't seem to stop 🤣)
