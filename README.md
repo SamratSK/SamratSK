@@ -2,7 +2,7 @@
 ## I'm a Student, Tech Enthusiast, and a Developer!!
 - 🔭 Check out my [website][website]!
 - 🌱 I’m currently working on new web frameworks (which don't seem to stop 🤣)
-- 🥅 2022 Goals: Learn more about web3, rust
+- 🥅 2023 Goals: Learn more about web3, rust
 - ⚡ Hobbies: Planning new apps, daydreaming, etc.
 - 🌲 Love nature
 
@@ -23,4 +23,4 @@
 ### Connect with me:
 Wanna get in touch? [Say Hi 👋][website]
 
-[website]: http://samratsk.maginnow.com
+[website]: http://ssk.maginnow.com
